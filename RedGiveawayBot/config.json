@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN_HERE",
+  "prefix": "?",
+  "defaultLang": "en",
+  "redThemeColor": "#FF0000"
+}
